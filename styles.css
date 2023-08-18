@@ -1,0 +1,19 @@
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  align: center;
+}
+
+h1 {
+  color: red;
+}
+
+#title, #sub-title, #img-caption, #tribute-link { 
+ text-align: center;
+}
+
+#tribute-info {
+  text-align: left;
+  margin-left: 100px;
+}
